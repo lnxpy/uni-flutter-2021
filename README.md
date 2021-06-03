@@ -28,4 +28,4 @@ samples, guidance on mobile development, and a full API reference.
 <img src="./.git_components/fig1.PNG" width="300"> <img src="./.git_components/fig2.PNG" width="300">
 </p>
 
-> With special appreciation to my dear Master [@MehrdadJannesar](https://github.com/MehrdadJannesar).
+> With special appreciation to [@MehrdadJannesar](https://github.com/MehrdadJannesar).
